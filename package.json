@@ -1,0 +1,13 @@
+{
+    "name": "aoc",
+    "description": "Advent of Code scripts",
+    "authors": "ke",
+    "version": "1.0.0",
+    "main": "day7.part2js",
+    "type": "module",
+    "dependencies": {},
+    "scripts": {
+        "start": "tsc && node day7part2.js",
+        "watch-and-run": "ts-node-dev --respawn -- day7.ts"
+    }
+}
